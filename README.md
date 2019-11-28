@@ -12,7 +12,7 @@ followed by one of the following letters;
 then add a "-" with a three digit number starting at 001
 so a branch working on the Map Point plotting system would be MP-001
 
-if working on the campaign editing section start the branch with a 'C'
+when working on the Campaign editing section start the branch with a 'C'
 followed by one of the following letters;
     M - maps and linking maps together
     P - players mechanics
