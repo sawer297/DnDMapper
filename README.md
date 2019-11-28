@@ -5,7 +5,7 @@ when creating branches, please follow the following naming conventions
 
 when working on the Map editing section start the branch with an 'M'
 followed by one of the following letters;
-    P - point plotting systems
+>P - point plotting systems
     E - edge toggling systems
     O - option systems (doors, min/max elevation, chests)
     S - saving system
