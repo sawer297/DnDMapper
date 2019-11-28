@@ -9,6 +9,7 @@ followed by one of the following letters;
 - E - edge toggling systems
 - O - option systems (doors, min/max elevation, chests)
 - S - saving system
+
 then add a "-" with a three digit number starting at 001
 so a branch working on the Map Point plotting system would be MP-001
 
@@ -19,6 +20,7 @@ followed by one of the following letters;
 - E - enemy mechanics
 - T - traps and items
 - R - remote access
+
 then add a "-" with a three digit number starting at 001
 so a branch working on the campaign player mechanic system would be CP-001
 
