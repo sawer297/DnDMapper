@@ -18,7 +18,7 @@ followed by one of the following letters;
 - M - maps and linking maps together
 - P - players mechanics
 - E - enemy mechanics
-- T - traps and items
+- I - Interactables (traps, items, doors)
 - R - remote access
 
 then add a "-" with a three digit number starting at 001
